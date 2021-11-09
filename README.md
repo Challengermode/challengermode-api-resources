@@ -16,4 +16,4 @@ For general feedback and discussions, consider asking the community on our [Chal
 1. First, check whether your issue is addressed in the [FAQ](https://github.com/Challengermode/public-api/blob/main/FAQ.md).
 2. If not, Search among existing issues if your issue already exists; 
 If it does, consider voting commenting with additional examples/context to help us prioritize 👍
-3. If not, go ahead and **create a new issue**. If possible, follow the template format.
+3. If not, go ahead and [**create a new issue**](https://github.com/Challengermode/public-api/issues). If possible, follow the template format.
