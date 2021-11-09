@@ -8,4 +8,4 @@ All documentation can be found in our [Developer Portal](https://www.challengerm
 For general questions and community support, please join our [Challengermode Dev Discord](...).
 
 # Issues & Feature Requests
-First, please refer to our [Contribution Guidelines](https://github.com/Challengermode/public-api/blob/448fb52c01d458055114c53635bb5bc76ab91cca/CONTRIBUTING.md)
+Before you create an issue, please refer to our [Contribution Guidelines](https://github.com/Challengermode/public-api/blob/448fb52c01d458055114c53635bb5bc76ab91cca/CONTRIBUTING.md)
