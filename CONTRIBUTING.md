@@ -1,7 +1,8 @@
 # How to contribute
 
 # General feedback and discussions?
-For general feedback and discussions, consider asking the community on our [Challengermode Dev Discord](...).
+For general feedback and discussions, consider asking the community on our [Challengermode Dev Discord](https://discord.gg/4FFCPJurrf).
+
 
 # Bugs & Feature Requests?
 🔺 **IMPORTANT: For security-related issues, please contact us via [<security@challengermode.com>](mailto:security@challengermode.com).**
