@@ -1,4 +1,4 @@
-Welcome to the Challengermode Public API Issue Tracker! 
+Welcome to the [Challengermode](https://www.challengermode.com/) Public API Issue Tracker! 
 Below you'll find resources of how to get going with using the Challengermode Public API.
 
 # Issues & Feature Requests
